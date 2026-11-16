@@ -1,18 +1,18 @@
 # 🤖 Multi-Agent AI Research System
 
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/40c8466c-cccd-408c-bee2-63050eb78869" />
-
 An AI-powered research assistant built with **Python, LangChain, Groq, Tavily, and Streamlit** that automates the research process — from searching the web and extracting relevant information to generating structured research reports and evaluating their quality.
 
 The system combines AI-powered workflows with web search and scraping to transform research queries into informative, source-backed reports.
 
 ## 🖥️ Application Preview
 
-<img width="1917" height="972" alt="Screenshot 2026-11-04 213712" src="https://github.com/user-attachments/assets/7d51565a-b1ba-4702-8960-a89f76d9d6a9" />
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/40c8466c-cccd-408c-bee2-63050eb78869" />
 
 ## 🌐 Live Application
 
 🚀 **Live Demo:** [Try the Multi-Agent AI Research System](https://ai-research-system-6gg23ngynkanpldfcynmtt.streamlit.app/)
+
+<img width="1917" height="972" alt="Screenshot 2026-11-04 213712" src="https://github.com/user-attachments/assets/7d51565a-b1ba-4702-8960-a89f76d9d6a9" />
 
 ## ✨ Key Features
 

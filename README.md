@@ -10,7 +10,7 @@ The system combines AI-powered workflows with web search and scraping to transfo
 
 ## 🌐 Live Application
 
-🚀 **Live Demo:** [Try the Multi-Agent AI Research System](https://multi-agent-ai-research-system-u6gv539zu4yqiyage9kgyc.streamlit.app/)
+🚀 **Live Demo:** [Try the Multi-Agent AI Research System](https://ai-research-system-6gg23ngynkanpldfcynmtt.streamlit.app/)
 
 ## ✨ Key Features
 

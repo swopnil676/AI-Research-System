@@ -6,7 +6,7 @@ The system combines AI-powered workflows with web search and scraping to transfo
 
 ## 🖥️ Application Preview
 
-<img width="1917" height="972" alt="Multi-Agent AI Research System Preview" src="https://github.com/user-attachments/assets/0d7ca70c-569c-4e67-9500-fd4d92ef62b7" />
+<img width="1917" height="972" alt="Screenshot 2026-11-04 213712" src="https://github.com/user-attachments/assets/7d51565a-b1ba-4702-8960-a89f76d9d6a9" />
 
 ## 🌐 Live Application
 
